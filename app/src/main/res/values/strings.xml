@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">JetpackFirst</string>
+    <string name="dummy">Dummy</string>
+    <string name="hbd_sam">HBD sam</string>
+    <string name="from_ema">from ema</string>
+    <string name="jetpack_compose_tutorial">Jetpack compose tutorial</string>
 </resources>
